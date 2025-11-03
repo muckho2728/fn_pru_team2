@@ -1,8 +1,20 @@
-\# 🎮 Five Nights at Freddy’s: Rebuilt – Fear Reimagined 👾
+<div align="center">
+
+&nbsp; <img src="Medias/fnaf\_banner.png" width="800" alt="FNAF Rebuilt Banner"/>
+
+&nbsp; <h1>🎮 Five Nights at Freddy’s: Rebuilt – Fear Reimagined 👾</h1>
+
+&nbsp; <p><i>A student remake project built by FPT University students for the PRU (Production Unit) course.</i></p>
+
+</div>
 
 
 
-\## 👻 About the Game  
+---
+
+
+
+\## 👻 About the Game
 
 Welcome to \*\*Five Nights at Freddy’s: Rebuilt\*\*, a \*\*student re-creation project\*\* developed by \*\*FPT University students\*\* as part of the \*\*PRU (Production Unit)\*\* course.  
 
@@ -20,13 +32,13 @@ Monitor cameras, conserve power, and stay alive — if you can.
 
 
 
-\## 🏅 Achievements  
+\## 🏅 Achievements
 
-\* 🎓 \*\*Developed\*\* as part of \*\*FPT University’s PRU Project\*\*, showcasing teamwork and applied game design.  
+\- 🎓 Developed as part of \*\*FPT University’s PRU Project\*\*, showcasing teamwork and applied game design.  
 
-\* 🏆 \*\*Praised\*\* for faithful recreation and technical implementation using \*\*Unity’s animation and AI systems\*\*.  
+\- 🏆 Praised for faithful recreation and technical implementation using \*\*Unity’s animation and AI systems\*\*.  
 
-\* 🌟 \*\*Demonstrated\*\* in internal showcases and \*\*FPT Game Development Exhibition\*\* (Spring 2025).  
+\- 🌟 Demonstrated in internal showcases and \*\*FPT Game Development Exhibition\*\* (Spring 2025).  
 
 
 
@@ -34,9 +46,9 @@ Monitor cameras, conserve power, and stay alive — if you can.
 
 
 
-\### 📸 Exhibition \& Media Highlights  
+\## 📸 Exhibition \& Media Highlights
 
-| <img src="Medias/fpt\_fnaf\_booth.jpg" width="500"/> | <img src="Medias/fpt\_fnaf\_team.jpg" width="500"/> |
+| <img src="Medias/fpt\_fnaf\_booth.jpg" width="480"/> | <img src="Medias/fpt\_fnaf\_team.jpg" width="480"/> |
 
 |:--:|:--:|
 
@@ -48,7 +60,7 @@ Monitor cameras, conserve power, and stay alive — if you can.
 
 
 
-\## 📑 Project Brief  
+\## 📑 Project Brief
 
 This document compiles all project resources, including the \*\*GDD (Game Design Document)\*\*, \*\*TDD (Technical Design Document)\*\*, gameplay demo, and trailer.  
 
@@ -62,17 +74,17 @@ You can view all project materials here:
 
 
 
-\## 📸 Screenshots \& Trailer  
+\## 🎥 Screenshots \& Trailer
 
-🎥 \*\*Game Trailer:\*\*  
+🎬 \*\*Game Trailer:\*\*  
 
-\[Watch Here](https://drive.google.com/file/d/19hRdnnfogIc44ItN42sCHqAOupR8\_WEk/view?usp=sharing)  
+\[▶ Watch Here](https://drive.google.com/file/d/19hRdnnfogIc44ItN42sCHqAOupR8\_WEk/view?usp=sharing)  
 
 
 
-🎮 \*\*Gameplay Demo:\*\*  
+🕹️ \*\*Gameplay Demo:\*\*  
 
-\[View Demo](https://drive.google.com/file/d/1r3RSNfwHGyxwAN0P-0oXk1ovj8ZIV2xV/view?usp=sharing)  
+\[🎮 View Demo](https://drive.google.com/file/d/1r3RSNfwHGyxwAN0P-0oXk1ovj8ZIV2xV/view?usp=sharing)  
 
 
 
@@ -90,7 +102,7 @@ You can view all project materials here:
 
 
 
-\## ⚡ Features  
+\## ⚡ Features
 
 \- 🎥 \*\*Classic Horror Reimagined\*\* – Experience the tension and paranoia of the original FNAF, rebuilt in Unity.  
 
@@ -110,7 +122,7 @@ You can view all project materials here:
 
 
 
-\## 🛠️ Development Process  
+\## 🛠️ Development Process
 
 \- \*\*Game Engine:\*\* Unity  
 
@@ -130,7 +142,7 @@ You can view all project materials here:
 
 
 
-\## 🕹️ How to Play  
+\## 🕹️ How to Play
 
 1\. Use \*\*Cameras\*\* to track animatronics.  
 
@@ -146,11 +158,11 @@ You can view all project materials here:
 
 
 
-\## 📥 Installation  
+\## 📥 Installation
 
-\- \*\*Windows (PC):\*\* \[Download Build](https://drive.google.com/file/d/1Nw-7rBAQGKx\_Oe-yiguqa-3u3w47hxQP/view?usp=sharing)  
+\- 💻 \*\*Windows (PC):\*\* \[Download Build](https://drive.google.com/file/d/1Nw-7rBAQGKx\_Oe-yiguqa-3u3w47hxQP/view?usp=sharing)  
 
-\- \*\*Android \& Itch.io:\*\* Coming Soon!  
+\- 📱 \*\*Android \& Itch.io:\*\* Coming Soon!  
 
 
 
@@ -158,7 +170,7 @@ You can view all project materials here:
 
 
 
-\## 🚀 Future Updates  
+\## 🚀 Future Updates
 
 \- 🎭 \*\*Additional Nights \& Custom Night Mode\*\*  
 
@@ -216,5 +228,13 @@ You can view all project materials here:
 
 
 
-\*© 2025 FPT University – PRU Game Development Team. This project is a non-commercial educational remake inspired by Scott Cawthon’s original Five Nights at Freddy’s.\*
+<div align="center">
+
+&nbsp; <sub>© 2025 FPT University – PRU Game Development Team.  
+
+&nbsp; This project is a non-commercial educational remake inspired by Scott Cawthon’s original Five Nights at Freddy’s.</sub>
+
+</div>
+
+
 
